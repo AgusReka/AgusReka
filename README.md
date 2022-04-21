@@ -13,67 +13,22 @@ Actualmente cursando Henry para el titulo de Desarrollador Web Full Stack;
 
 ### Tecnologias
 
-* React * Node.js * Javascript * CSS * PostgreSQL * Redux
+* React 
+* Node.js 
+* Javascript 
+* CSS 
+* PostgreSQL 
+* Redux
 * 
 ### Proyectos
 
-* [PI - Pokemon App](https://github.com/AgusReka/PI-Pokemon-main)
+* [PI - Pokemon App](https://github.com/AgusReka/PI-Pokemon-main) - Github Repository
 ```
 Tecnologias:
 JavaScript - React - Node.js - Redux - CSS - PostgreSQL
 Realizado Durante El Cursado De Henry.
 ```
-## Running the tests
+## Extra
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+[LinkedIn](https://www.linkedin.com/in/agustin-recabarren-b163a1237/) - Agustin Recabarren LinkedIn
 
