@@ -1,37 +1,30 @@
-# Project Title
+# Agustin Recabarren
 
-One Paragraph of project description goes here
+Español:
+Soy un Estudiante de desarrollo web en busca de nuevos desafíos para ponerme a prueba y aprender nuevas habilidades para crecer como programador y persona. Hice un cursado en Henry ,donde aprendí a hacer paginas web tanto desde el Frontend como el Backend , y he realizado cursos de desarrollo de videojuegos como hobby porque me divierte programar y crear mundos nuevos con mi imaginación.
 
-## Getting Started
+English:
+I am a Web Development Student looking for new challenges to test myself and learn new skills to grow as a programmer and person. I took a course at Henry, where I learned to make web pages both from the Frontend and the Backend, and I have taken video game development courses as a hobby because I enjoy programming and creating new worlds with my imagination.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Estudios
 
-### Prerequisites
+Español:
+Actualmente cursando Henry para el titulo de Desarrollador Web Full Stack;
 
-What things you need to install the software and how to install them
+### Tecnologias
 
-```
-Give examples
-```
+* React * Node.js * Javascript * CSS * PostgreSQL * Redux
+* 
+### Proyectos
 
-### Installing
+//
+PI - Pokemon App
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
+Tecnologias:
+JavaScript - React - Node.js - Redux - CSS - PostgreSQL
+Link: https://github.com/AgusReka/PI-Pokemon-main
+Realizado Durante El Cursado De Henry.
+//
 ## Running the tests
 
 Explain how to run the automated tests for this system
