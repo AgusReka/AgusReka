@@ -30,5 +30,5 @@ Realizado Durante El Cursado De Henry.
 ```
 ## Extra
 
-[LinkedIn](https://www.linkedin.com/in/agustin-recabarren-b163a1237/) - Agustin Recabarren LinkedIn
+[Agustin Recabarren](https://www.linkedin.com/in/agustin-recabarren-b163a1237/) -  LinkedIn
 
