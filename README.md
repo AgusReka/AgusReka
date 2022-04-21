@@ -7,9 +7,9 @@ English:
 I am a Web Development Student looking for new challenges to test myself and learn new skills to grow as a programmer and person. I took a course at Henry, where I learned to make web pages both from the Frontend and the Backend, and I have taken video game development courses as a hobby because I enjoy programming and creating new worlds with my imagination.
 
 ## Estudios
-
-Español:
-Actualmente cursando Henry para el titulo de Desarrollador Web Full Stack;
+ * Henry Full Stack Developer
+ * Estudiante en la Univercidad Tecnologica Nacional, Tecnico en Programacion Superior
+ * Certificado de Ingles en el Institulo Cultural de Mendoza,Argentina
 
 ### Tecnologias
 
@@ -19,7 +19,7 @@ Actualmente cursando Henry para el titulo de Desarrollador Web Full Stack;
 * CSS 
 * PostgreSQL 
 * Redux
-* 
+
 ### Proyectos
 
 * [PI - Pokemon App](https://github.com/AgusReka/PI-Pokemon-main) - Github Repository
