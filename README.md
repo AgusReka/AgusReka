@@ -17,14 +17,12 @@ Actualmente cursando Henry para el titulo de Desarrollador Web Full Stack;
 * 
 ### Proyectos
 
-* [Maven](https://maven.apache.org/) - Dependency Management
-PI - Pokemon App
-
+* [PI - Pokemon App](https://github.com/AgusReka/PI-Pokemon-main)
+```
 Tecnologias:
 JavaScript - React - Node.js - Redux - CSS - PostgreSQL
-Link: https://github.com/AgusReka/PI-Pokemon-main
 Realizado Durante El Cursado De Henry.
-//
+```
 ## Running the tests
 
 Explain how to run the automated tests for this system
