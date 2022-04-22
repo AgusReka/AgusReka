@@ -47,4 +47,4 @@ Realizado Durante El Cursado De Henry En Un Grupo De 8 Personas.
 
 * **Mail**: agustinr2806@gmail.com 
 
-* [linkedIn](https://www.shutterstock.com/es/image-photo/kiev-ukraine-june-7-2015-linkedin-285114926): https://www.linkedin.com/in/agustin-recabarren-b163a1237/
+* [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
