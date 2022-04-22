@@ -7,12 +7,12 @@ Soy un Estudiante de desarrollo web en busca de nuevos desafíos para ponerme a 
 English:
 I am a Web Development Student looking for new challenges to test myself and learn new skills to grow as a programmer and person. I took a course at Henry, where I learned to make web pages both from the Frontend and the Backend, and I have taken video game development courses as a hobby because I enjoy programming and creating new worlds with my imagination.
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-## Estudios/Estudies
+# Estudios/Estudies
  * Henry Full Stack Developer
  * Estudiante en la Univercidad Tecnologica Nacional, Tecnico en Programacion Superior
  * Certificado de Ingles en el Institulo Cultural de Mendoza,Argentina
 
-### Languages and Tools 🛠 
+# Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -26,7 +26,7 @@ I am a Web Development Student looking for new challenges to test myself and lea
 
 <br/>
 
-### Proyectos/Proyects
+# Proyectos/Proyects
 
 * [PI - Pokemon App](https://github.com/AgusReka/PI-Pokemon-main) - Github Repository
 ```
@@ -34,7 +34,14 @@ Tecnologias:
 JavaScript - React - Node.js - Redux - CSS - PostgreSQL
 Realizado Durante El Cursado De Henry.
 ```
-## Contact Me
+* [PF - E-Commerce]() - Github Repository (Currently Working On)
+```
+
+Tecnologias:
+JavaScript - React - Node.js - Redux - CSS - PostgreSQL -Boostrap
+Realizado Durante El Cursado De Henry En Un Grupo De 8 Personas.
+```
+# Contact Me
 
 * **Mail**: agustinr2806@gmail.com 
 
