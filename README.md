@@ -37,7 +37,6 @@ Realizado Durante El Cursado De Henry.
 ```
 * [PF - E-Commerce](https://github.com/JesusGambaro/PF-Grupo-9) - Github Repository (Currently Working On)
 ```
-
 Tecnologias:
 JavaScript - React - Node.js - Redux - CSS - PostgreSQL -Boostrap
 Realizado Durante El Cursado De Henry En Un Grupo De 8 Personas.
