@@ -3,10 +3,10 @@
 # Acerca de mi/About Me
 Español:
 Soy un Estudiante de desarrollo web en busca de nuevos desafíos para ponerme a prueba y aprender nuevas habilidades para crecer como programador y persona. Hice un cursado en Henry ,donde aprendí a hacer paginas web tanto desde el Frontend como el Backend , y he realizado cursos de desarrollo de videojuegos como hobby porque me divierte programar y crear mundos nuevos con mi imaginación.
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 English:
 I am a Web Development Student looking for new challenges to test myself and learn new skills to grow as a programmer and person. I took a course at Henry, where I learned to make web pages both from the Frontend and the Backend, and I have taken video game development courses as a hobby because I enjoy programming and creating new worlds with my imagination.
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 # Estudios/Estudies
  * Henry Full Stack Developer
  * Estudiante en la Univercidad Tecnologica Nacional, Tecnico en Programacion Superior
