@@ -43,8 +43,8 @@ Tecnologias:
 JavaScript - React - Node.js - Redux - CSS - PostgreSQL -Boostrap
 Realizado Durante El Cursado De Henry En Un Grupo De 8 Personas.
 ```
-### Contact Me
+# Contact Me
 
 * **Mail**: agustinr2806@gmail.com 
 
-* **LinkedIn**: https://www.linkedin.com/in/agustin-recabarren-b163a1237/
+* [](https://www.shutterstock.com/es/image-photo/kiev-ukraine-june-7-2015-linkedin-285114926): https://www.linkedin.com/in/agustin-recabarren-b163a1237/
