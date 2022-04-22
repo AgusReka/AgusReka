@@ -22,7 +22,7 @@ I am a Web Development Student looking for new challenges to test myself and lea
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm?style=flat-square&logo=Npm&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
@@ -47,4 +47,4 @@ Realizado Durante El Cursado De Henry En Un Grupo De 8 Personas.
 
 * **Mail**: agustinr2806@gmail.com 
 
-* [](https://www.shutterstock.com/es/image-photo/kiev-ukraine-june-7-2015-linkedin-285114926): https://www.linkedin.com/in/agustin-recabarren-b163a1237/
+* [linkedIn](https://www.shutterstock.com/es/image-photo/kiev-ukraine-june-7-2015-linkedin-285114926): https://www.linkedin.com/in/agustin-recabarren-b163a1237/
