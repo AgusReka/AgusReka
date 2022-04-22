@@ -1,6 +1,6 @@
 # Hello There😁
 
-# Acerca de mi/About Me
+# Acerca de mi/About Me 👋
 Español:
 Soy un Estudiante de desarrollo web en busca de nuevos desafíos para ponerme a prueba y aprender nuevas habilidades para crecer como programador y persona. Hice un cursado en Henry ,donde aprendí a hacer paginas web tanto desde el Frontend como el Backend , y he realizado cursos de desarrollo de videojuegos como hobby porque me divierte programar y crear mundos nuevos con mi imaginación.
 <br />
@@ -9,12 +9,12 @@ Soy un Estudiante de desarrollo web en busca de nuevos desafíos para ponerme a 
 English:
 I am a Web Development Student looking for new challenges to test myself and learn new skills to grow as a programmer and person. I took a course at Henry, where I learned to make web pages both from the Frontend and the Backend, and I have taken video game development courses as a hobby because I enjoy programming and creating new worlds with my imagination.
 
-# Estudios/Estudies
+# Estudios/Estudies 👨‍🎓
  * Henry Full Stack Developer
  * Estudiante en la Univercidad Tecnologica Nacional, Tecnico en Programacion Superior
  * Certificado de Ingles en el Institulo Cultural de Mendoza,Argentina
 
-# Languages and Tools 🛠 
+# Tecnologias/Technologies 💻 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -28,7 +28,7 @@ I am a Web Development Student looking for new challenges to test myself and lea
 
 <br/>
 
-# Proyectos/Proyects
+# Proyectos/Proyects 🛠
 
 * [PI - Pokemon App](https://github.com/AgusReka/PI-Pokemon-main) - Github Repository
 ```
@@ -43,8 +43,8 @@ Tecnologias:
 JavaScript - React - Node.js - Redux - CSS - PostgreSQL -Boostrap
 Realizado Durante El Cursado De Henry En Un Grupo De 8 Personas.
 ```
-# Contact Me
+# Contact Me 💬
 
 * **Mail**: agustinr2806@gmail.com 
 
-* [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+* **LinkedIn**: https://www.linkedin.com/in/agustin-recabarren-b163a1237/
